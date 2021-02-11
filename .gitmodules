@@ -1,3 +1,3 @@
 [submodule "lib"]
 	path = lib
-	url = https://github.com/BearBoy233/gui_arc.git
+	url = https://github.com/BearBoy233/ArcGIS_lib
