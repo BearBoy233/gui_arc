@@ -36,8 +36,8 @@ include_directories(
 )
 
 # 添加动态连接库的路径 ArcGIS
-# link_directories(${PROJECT_SOURCE_DIR}/lib) 
-link_directories(/home/zy/ws_cq/lib_arcgis) 
+link_directories(${PROJECT_SOURCE_DIR}/lib) 
+# link_directories(/home/zy/ws_cq/lib_arcgis) 
 
 add_message_files(
   FILES
